@@ -7,3 +7,5 @@ dwauno
 git rm
 
 gitstatus
+
+git diff
