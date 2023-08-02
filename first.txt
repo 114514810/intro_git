@@ -3,3 +3,5 @@ practicing git
 about workflow
 
 dwauno
+
+git rm
