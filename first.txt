@@ -5,3 +5,5 @@ about workflow
 dwauno
 
 git rm
+
+gitstatus
